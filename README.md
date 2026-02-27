@@ -1,4 +1,4 @@
-# DATA-EXPLORATION
+# Data-Exploration
 Data exploration using excel.
 
 📌 Overview
